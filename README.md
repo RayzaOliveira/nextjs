@@ -2,8 +2,8 @@
     <img alt="Logo" title="#logo" width="320px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png">
     <br />
     <br />
-    <h2 align="center">Variáveis de ambiente </h2>
-    
+    <b>Variáveis de ambiente </b>
+    <br />
 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/rayza-oliveira-costa-482658129/">
@@ -11,11 +11,10 @@
   </a>
   <img alt="License" src="https://img.shields.io/badge/licence-MIT-black">
 </p>
+
 <br />
 
-
-
-## :bookmark: Variáveis de ambiente
+## :bookmark: Sobre
 
  O <strong>Next.js</strong> vem com suporte integrado para <strong>variáveis de ambiente</strong>, o que permite que você crie o seguinte ambientes:
 
