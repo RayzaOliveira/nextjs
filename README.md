@@ -12,8 +12,6 @@
   <img alt="License" src="https://img.shields.io/badge/licence-MIT-black">
 </p>
 
-<br />
-
 ## :bookmark: Sobre
 
  O <strong>Next.js</strong> vem com suporte integrado para <strong>variáveis de ambiente</strong>, o que permite que você crie o seguinte ambientes:
