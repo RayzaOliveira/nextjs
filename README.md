@@ -1,9 +1,9 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="320px" src="https://camo.githubusercontent.com/54d64f1260052c96ce70c540bd64ee83edbe865aa765941bbc012821744fe265/68747470733a2f2f6173736574732e7a6569742e636f2f696d6167652f75706c6f61642f76313533383336313039312f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6a732e706e67">
+    <img alt="Logo" title="#logo" width="320px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png">
     <br />
     <br />
-    <b>Variáveis de ambiente </b>
-    <br />
+    <h2 align="center">Variáveis de ambiente </h2>
+    
 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/rayza-oliveira-costa-482658129/">
@@ -11,16 +11,13 @@
   </a>
   <img alt="License" src="https://img.shields.io/badge/licence-MIT-black">
 </p>
-<a id="sobre"></a>
-
-## :bookmark: Sobre
-
- O <strong>Next.js</strong> vem com suporte integrado para variáveis de ambiente, o que permite que você crie o seguinte ambientes:
+<br />
 
 
-## Variáveis de ambiente :sparkles:
 
- O Next.js vem com suporte integrado para variáveis de ambiente, o que permite que você faça o seguinte:
+## :bookmark: Variáveis de ambiente
+
+ O <strong>Next.js</strong> vem com suporte integrado para <strong>variáveis de ambiente</strong>, o que permite que você crie o seguinte ambientes:
 
   - Ambiente de desenvolvimento
   - Ambiente de produção
