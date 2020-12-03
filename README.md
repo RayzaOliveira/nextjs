@@ -63,9 +63,9 @@ MONGO_PROD=test
 
 - Ambiente de padrão
 
-Caso não seja necessário adicionar alguns padrões para ambiente como `devepopment` e `production`
+Caso não seja necessário adicionar padrões para ambiente como: `devepopment` e `production`.
 
-Arquivo `.env`
+`.env`
 
 ```sql
 NEXT_PUBLIC_MONGODB_URI=connectionString_local
